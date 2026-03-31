@@ -10,5 +10,7 @@ Here is the steps I will take:
 6. Accuracy
 
 SQL Dialect: MySQL
+
 DBMS: DBeaver
+
 Visual Software: Tableau Public
