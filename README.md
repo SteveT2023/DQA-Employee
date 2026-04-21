@@ -1,9 +1,8 @@
-# Data Quality Analysis | Employee Dataset Project
+## 📌 Project Introduction
+This project is a hands-on exploration of **Data Quality Analysis (DQA)**. Using a purposefully "broken" dataset, I performed a full audit to identify and remediate issues that would typically compromise business intelligence and HR reporting.
 
-In this project, I'm going to identify issues from the dataset and fix them. 
+## 🛠️ The Toolkit
+* **DBMS:** MySQL
+* **Client:** DBeaver
 
-Softwares:
-
-SQL Dialect: MySQL
-
-DBMS: DBeaver
+## 📂 Project Structure
