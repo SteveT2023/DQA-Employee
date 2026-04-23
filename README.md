@@ -9,3 +9,5 @@ This project is a hands-on exploration of **Data Quality Analysis (DQA)**. Using
 * `README.md`: An introduction to the project.
 * `DQA_Employee_Report.pdf`: Document on my finding and fixed for the dataset.
 * `/Datasets`: Contains the raw and cleaned dataset.
+* `/Queries`: Contains .SQL files that shows the process of auditing.
+* `/Findings`: Contains .CSV files that shows results from queries.
